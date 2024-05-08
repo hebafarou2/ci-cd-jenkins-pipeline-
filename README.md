@@ -129,3 +129,5 @@ This guide walks you through setting up a Continuous Integration/Continuous Depl
 ## 9. Testing and Validation:
   - Push a change to the develop branch and verify Jenkins triggers a build.
   - Check the Jenkins dashboard for build status and output.
+### stage view for build
+  ![stage view for build](https://github.com/hebafarou2/ci-cd-jenkins-pipeline-/blob/develop/stage%20view.PNG?raw=true)
